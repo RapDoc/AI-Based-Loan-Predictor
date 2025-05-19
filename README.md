@@ -21,7 +21,7 @@ A machine learning project that predicts loan approval based on applicant detail
 - Jupyter Notebook
 
 ## 📊 Performance
-- Achieved up to **[insert your model’s best accuracy]%** accuracy.
+- Achieved up to **91%** accuracy.
 - Evaluated using confusion matrix, precision, recall, and accuracy.
 
 ## 📁 Dataset
